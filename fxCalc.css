@@ -1,0 +1,17 @@
+/*
+A simple style sheet for the Currency Converter
+*/
+/* 
+    Created on : Feb 3, 2017, 2:48:55 PM
+    Author     : Elizabeth Avery
+*/
+
+body{
+    text-align: center;
+}
+div{
+    padding: 10px 0px;
+}
+.error{
+    color: red;
+}
